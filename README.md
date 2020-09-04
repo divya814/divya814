@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**divya814/divya814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 I’m currently in 3rd year of my Engineering from ABES Engineering College, Ghaziabad, India.
 🌱 A passionate Website developer 😃 with hands-on experience. I have done projects for my skill enhancement and better learning.
 ✔ Currently learning FullStack Development. More passionate about Front-end development and also working on my Back-end skills. 
