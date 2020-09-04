@@ -24,3 +24,10 @@ Welcome to my Github😄
 ### Other Interests
 ♥️ I am quite creative and hard working and love to make some creative handmade stuffs, painting and designing😊 in my free time. <br>
 😛 Love to do shopping. But also values money.😊<br>
+
+### I want to learn more about
+▪ Graphic Designing <br>
+▪ Machine Learning <br>
+▪ Photoshop <br>
+▪ AR/VR <br>
+
