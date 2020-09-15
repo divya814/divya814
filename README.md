@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ![Divya Maheshwari](https://imgur.com/mEgnaRW.png)
 <br>
 
@@ -20,7 +20,7 @@
 ### Would love to work as a freelancer, designing websites and cooperating with the Backend team.
 
 ## Other Interests
-♥️ Creative and hard working girl who loves to make creative handmade stuffs, painting and designing😊 in my free time. Also Loves dancing💖<br>
+💖 Creative and hard working girl who loves to make creative handmade stuffs, painting and designing in my free time. Also Loves dancing😊<br>
 
 ## Want to learn more about
 ◼ Graphic Designing <br>
