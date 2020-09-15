@@ -1,11 +1,11 @@
 ### Hi there 👋
 ![Divya Maheshwari](https://imgur.com/mEgnaRW.png)
 
-✌ I am a passionate Website developer 😃 with hands-on experience. <br>
+<center>✌ I am a passionate Website developer 😃 with hands-on experience. <br>
 ✔ Learning FullStack Development. Passionate about Front-end development and also working on my Back-end skills. <br>
 ✔ Other than that I like to Code in Python and also an ML Enthusiast. <br>
 ✔ I have done projects for my skill enhancement and better learning. <br>
-🙌 Currently in 3rd year of my Engineering from ABES Engineering College, Ghaziabad, India.
+🙌 Currently in 3rd year of my Engineering from ABES Engineering College, Ghaziabad, India.<br><center>
 
 ## Experience
 🌟 Working as a Social Media Manganer specifically on You-tube for GirlUp- She United. <br>
