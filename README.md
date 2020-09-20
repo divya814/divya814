@@ -1,4 +1,4 @@
-## Hi there 👋 <img width="50" height="50" src="https://imgur.com/IixEkzj.png">
+## Hi there 👋 <img align="center" width="50" height="60" src="https://imgur.com/IixEkzj.png">
 ![Divya Maheshwari](https://imgur.com/mEgnaRW.png)
 <br>
 
