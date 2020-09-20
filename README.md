@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <img align="right" src="https://imgur.com/IixEkzj.png">
 ![Divya Maheshwari](https://imgur.com/mEgnaRW.png)
 <br>
 
