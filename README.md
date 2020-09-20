@@ -8,8 +8,7 @@
 ✔ I have done projects for my skill enhancement and better learning. <br>
 🙌 Currently in 3rd year of Engineering in Information & Technology from ABES Engineering College, Ghaziabad, India.<br>
 
-#### You can find me on
-  <a href="https://www.linkedin.com/in/divya-maheshwari814/" rel="nofollow noreferrer">
+#### You can find me on <a href="https://www.linkedin.com/in/divya-maheshwari814/" target="_blank" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 
