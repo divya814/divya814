@@ -1,4 +1,4 @@
-## Hi there 👋 <img align="center" width="50" height="60" src="https://imgur.com/IixEkzj.png">
+## Hi there 👋 <img align="right" width="50" height="60" src="https://imgur.com/IixEkzj.png">
 ![Divya Maheshwari](https://imgur.com/mEgnaRW.png)
 <br>
 
@@ -8,7 +8,7 @@
 ✔ I have done projects for my skill enhancement and better learning. <br>
 🙌 Currently in 3rd year of Engineering in Information & Technology from ABES Engineering College, Ghaziabad, India.<br>
  
-#### Connect with me on 
+### Connect with me on 
 <a href="https://www.linkedin.com/in/divya-maheshwari814/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
