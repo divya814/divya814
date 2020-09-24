@@ -25,11 +25,4 @@
 ### Would love to work as a freelancer, designing websites and cooperating with the Backend team.
 
 ## Other Interests
-💖 Creative and hard working girl who loves to make creative handmade stuffs, painting and designing in my free time. Also Loves dancing😊<br>
-
-## Want to learn more about
-◼ Graphic Designing <br>
-◼ Machine Learning <br>
-◼ Photoshop <br>
-◼ AR/VR <br>
-
+💖 Creative and hard working girl who loves to make creative handmade stuffs, painting and designing in free time. Also dancing is my best stress buster.😊<br>
