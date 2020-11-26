@@ -2,7 +2,7 @@
 ![Divya Maheshwari](https://imgur.com/mEgnaRW.png)
 <br>
 
-✔ Learning FullStack Development. Passionate about Front-end development and also working on my Back-end skills. <br>
+✔ I am a Web Developer with some quite creative Front-end development skills.<br>
 ✔ Other than that I like to Code in Python and also an ML Enthusiast. <br>
 🙌 Currently in 3rd year of Engineering in Information & Technology from ABES Engineering College, Ghaziabad, India.<br>
  
