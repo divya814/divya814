@@ -12,13 +12,13 @@
   </a> &nbsp; 
 
 ## Experience
-🌟 Working as a Social Media Manager specifically on You-tube for GirlUp- She United. <br>
+🌟 Worked as a Social Media Manager specifically handled You-tube for GirlUp- She United. <br>
 
-🌟 Working as a Web Developer, Social Media Manager (LinkedIn) and Mentor for new Interns at IndiaSpark. Also playing a major role in Educational Outreach Program of IndiaSpark.<br>
+🌟 Worked as an Educational Outreach Executive and a social media manager (LinkedIn). Also worked as a mentor for new Interns.<br>
 
-🌟 Working on Light De Literacy's (NGO) Website in a team of 3 for making an Attendance Portal and also working as a Camp Coordinator in this organisation.<br>
+🌟 Worked on Light De Literacy's (NGO) Website in a team of 3 and developed a Child Management Portal for Light De Literacy Website.<br>
 
-🌟 Developed a Child Management Portal for Light De Literacy Website.<br>
+🌟 Voluntarily working as a Camp Coordinator Light De Literacy's (NGO).<br>
 
 ### Would love to work as a freelancer, designing websites and cooperating with the Backend team.
 
