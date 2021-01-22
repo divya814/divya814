@@ -12,7 +12,7 @@
   </a> &nbsp; 
 
 ## Experience
-🌟 Developed the entire FrontEnd of the E-commerce Website- [Gift A Grin](https://giftagrin.000webhostapp.com/){:target="_blank" rel="noopener"}<br>
+🌟 Developed the entire FrontEnd of the E-commerce Website- [Gift A Grin](https://giftagrin.000webhostapp.com/)<br>
  
 🌟 Worked as a Social Media Manager at GirlUp-She United, specifically handled You-tube. <br>
 
