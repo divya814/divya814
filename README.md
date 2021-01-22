@@ -12,7 +12,7 @@
   </a> &nbsp; 
 
 ## Experience
-🌟 Developed the entire FrontEnd of the Website- <a href="https://giftagrin.000webhostapp.com/"><br>
+🌟 Developed the entire FrontEnd of the Website- <a href="https://giftagrin.000webhostapp.com/"></a><br>
  
 🌟 Worked as a Social Media Manager at GirlUp-She United, specifically handled You-tube. <br>
 
