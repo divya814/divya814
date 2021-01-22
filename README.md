@@ -12,7 +12,9 @@
   </a> &nbsp; 
 
 ## Experience
-🌟 Worked as a Social Media Manager specifically handled You-tube for GirlUp- She United. <br>
+🌟 Developed the entire FrontEnd of the Website- <a href="https://giftagrin.000webhostapp.com/"><br>
+ 
+🌟 Worked as a Social Media Manager at GirlUp-She United, specifically handled You-tube. <br>
 
 🌟 Worked as an Educational Outreach Executive and a social media manager (LinkedIn). Also worked as a mentor for new Interns.<br>
 
@@ -23,4 +25,4 @@
 ### Would love to work as a freelancer, designing websites and cooperating with the Backend team.
 
 ## Other Interests
-💖 Creative and hard working girl who loves to make creative handmade stuffs, painting and designing in free time. Also dancing is my best stress buster.😊<br>
+💖 I love to make creative handmade stuffs, painting and designing in free time. Also dancing is my favourite stress buster.😊<br>
