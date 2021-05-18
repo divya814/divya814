@@ -1,5 +1,5 @@
 ## Hi there 👋 <img align="right" width="50" height="60" src="https://imgur.com/IixEkzj.png">
-![Divya Maheshwari](https://imgur.com/mEgnaRW.png)
+![Divya Maheshwari](https://imgur.com/gby7T5d.png)
 <br>
 
 ✔ I am a Web Developer who is specially in love with the Front-end development.<br>
