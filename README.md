@@ -22,7 +22,7 @@
 
 🌟 Voluntarily working as a Camp Coordinator Light De Literacy's (NGO).<br>
 
-(https://github-readme-stats.vercel.app/api?username=divya814&&show_icons=true&title_color=ffffff&icon_color=14a8f7&text_color=ffffff&bg_color=052a80)
+![Divya Maheshwari](https://github-readme-stats.vercel.app/api?username=divya814&&show_icons=true&title_color=ffffff&icon_color=14a8f7&text_color=ffffff&bg_color=052a80)
 
 ## Other Interests
 💖 I love to make creative handmade stuffs, painting and designing in free time. Also dancing is my favourite stress buster.😊<br>
