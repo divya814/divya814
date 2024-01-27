@@ -2,7 +2,7 @@
 ![Divya Maheshwari](https://imgur.com/gby7T5d.png)
 <br>
 
-✔ I'm Divya, a passionate Python and Front-end developer with a flair for crafting clean and efficient code. With 1.5 years of experience in the software development landscape, I thrive on creating dynamic and user-centric solutions.<br>
+✔ I'm Divya, a passionate Python and Front-end developer with a flair for crafting clean and efficient code. With around 2 years of experience in the software development landscape, I thrive on creating dynamic and user-centric solutions.<br>
 
 ### Connect with me on 
 <a href="https://www.linkedin.com/in/divya-maheshwari814/" rel="nofollow noreferrer">
